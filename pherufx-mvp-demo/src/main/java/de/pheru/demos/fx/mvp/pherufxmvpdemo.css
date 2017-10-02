@@ -1,0 +1,23 @@
+.label {
+    -fx-background-color: red;
+}
+
+.labelapp {
+    -fx-background-color: green;
+}
+
+.stagelabel {
+    -fx-background-color: pink;
+}
+
+.labelappadd {
+    -fx-background-color: black;
+}
+
+.labelappcssadd {
+    -fx-background-color: black;
+}
+
+.labelappcssadd2 {
+    -fx-background-color: black;
+}
